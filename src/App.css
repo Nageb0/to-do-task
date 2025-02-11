@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    background-color: #FCFBFF;
+display: flex;
+justify-content: center;
+align-items:flex-start ;
+}
+.App form .btn {
+    width: 100px;
+    height: 40px;
+}
